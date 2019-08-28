@@ -1,0 +1,43 @@
+PODS:
+  - Koloda (5.0):
+    - pop (~> 1.0)
+  - MarqueeLabel (4.0.0)
+  - Mortar (1.6.0):
+    - Mortar/Core (= 1.6.0)
+  - Mortar/Core (1.6.0)
+  - Mortar/MortarVFL (1.6.0):
+    - Mortar/Core
+  - NVActivityIndicatorView (4.7.0):
+    - NVActivityIndicatorView/Presenter (= 4.7.0)
+  - NVActivityIndicatorView/Presenter (4.7.0)
+  - pop (1.0.12)
+  - WCLShineButton (1.0.8)
+
+DEPENDENCIES:
+  - Koloda
+  - MarqueeLabel
+  - Mortar
+  - Mortar/MortarVFL
+  - NVActivityIndicatorView
+  - WCLShineButton
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Koloda
+    - MarqueeLabel
+    - Mortar
+    - NVActivityIndicatorView
+    - pop
+    - WCLShineButton
+
+SPEC CHECKSUMS:
+  Koloda: 75302d21882cc3e274c1561b1155805ea5919dab
+  MarqueeLabel: b55b26e690b6ad41faedd95cbf5eae6f1d1735b4
+  Mortar: ac8e9b28e087513e33525106488ad56485d13309
+  NVActivityIndicatorView: b19ddab2576f805cbe0fb2306cba3476e09a1dea
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  WCLShineButton: 315ee9b0024b1cc56dba34fb6a8878937eb8d0b1
+
+PODFILE CHECKSUM: cdafab67acbefe711fe7bf2a4db90efcfa4edf26
+
+COCOAPODS: 1.6.0.beta.1
